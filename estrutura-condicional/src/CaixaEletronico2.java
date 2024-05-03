@@ -1,7 +1,7 @@
-public class CaixaEletronico {
+public class CaixaEletronico2 {
     public static void main(String[] args){
         double saldo = 250.82;
-        double valorSolicitado = 250.80;
+        double valorSolicitado = 250;
 
         //Exemplo de uma condicional simples.
 

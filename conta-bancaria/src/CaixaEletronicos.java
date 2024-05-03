@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Locale;
 
-public class CaixaEletronico {
+public class CaixaEletronicos {
     public static void main(String[] args) throws Exception {
 
         ContaTerminal contaTerminal = new ContaTerminal();
